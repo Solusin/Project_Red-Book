@@ -18,7 +18,7 @@ Enter Notice here
 </p>
 </div>
 -->
-<h3>(For information how to input Notices, check line 11-20.For additional information check lines 50-53)</h3>
+<h3>(For information how to input Notices, check line 11-20.For additional information check lines 59-61)</h3>
 <div id="Solusin">
 <h1 style="font-family:fantasy;">David(Solusin)</h1>
 <p class="Notices1">
@@ -43,7 +43,16 @@ Example Notice(Ignore)
 <ul>
 <!--enter notices next line(INCLUDE YOUR NAME)-->
 Example Notice(Ignore)
+</ul>
+</p>
+</div>
+<div id="allirreza">
+<h1 style="font-family:Comic Sans MS;">Alireza(allireza)</h1>
+<p class="Notices4">
 <ul>
+<!--enter notices next line(INCLUDE YOUR NAME)-->
+
+</ul>
 </p>
 </div>
 </body>
