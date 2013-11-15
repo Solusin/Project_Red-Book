@@ -39,7 +39,7 @@ Example Notice(Ignore)
 </p>
 </div>
 <div id="SindhujaD">
-<h1 style="font-family:Impact;">SinghujaD</h1>
+<h1 style="font-family:Impact;">SindhujaD</h1>
 <p class="Notices3">
 <ul>
 <!--enter notices next line(INCLUDE YOUR NAME)-->
