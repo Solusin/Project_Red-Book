@@ -39,11 +39,17 @@ Example Notice(Ignore)
 </p>
 </div>
 <div id="SindhujaD">
-<h1 style="font-family:Impact;">SinghujaD</h1>
+<h1 style="font-family:Impact;">SindhujaD</h1>
 <p class="Notices3">
 <ul>
 <!--enter notices next line(INCLUDE YOUR NAME)-->
-Example Notice(Ignore)
+Sindhuja--
+We need to decide everything, from the name to the color scheme. So a few starting questions to help everyone while coding:
+1. What do you want to make the color scheme?
+2. What do you want to make the website about?
+3. What do you cant to put on each part; the #HEADER, #FOOTER, #BODY, and #LEFT?
+Thanks! :)
+
 </ul>
 </p>
 </div>
