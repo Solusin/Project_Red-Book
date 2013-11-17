@@ -1,29 +1,33 @@
 /*Enter CSS Here*/
 #HEADER{
- height:45px;
- width:1265px;
- background-color:Red;
- border:2px solid black;
- border-radius:5px;
+	height:45px;
+	width:1265px;
+	background-color:Red;
+	border:2px solid black;
+	border-radius:5px;
+	float:top;
 }
 #FOOTER{
- height:35px;
- width:1265px;
- background-color:red;
- border:2px solid black;
- border-radius:5px;
+	height:35px;
+	width:1265px;
+	background-color:red;
+	border:2px solid black;
+	border-radius:5px;
+	float:bottom;
 }
 #LEFT{
- height:1265px;
- width:35px;
- background-color:#8FF582;
- border:1px solid black;
- border-radius:0px;
+	height:1265px;
+	width:35px;
+	background-color:#8FF582;
+	border:1px solid black;
+	border-radius:0px;
+	float:left;
 }
-#BODY{
- height:1185px;
- width:130px;
- background-color:#A4EAF3;
- border:1px solid #DCDEDE;
- border-radius:3px;
+#ARTICLE{
+	height:1185px;
+	width:130px;
+	background-color:#A4EAF3;
+	border:1px solid #DCDEDE;
+	border-radius:3px;
+	float:center;
 }
